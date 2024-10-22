@@ -1,0 +1,12 @@
+{
+    "Todo": "todo.svg",
+    "Done": "done.svg",
+    "Cancelled": "cancelled.svg",
+    "In Progress": "progress.svg",
+    "Backlog": "backlog.svg",
+    "High": "high.svg",
+    "Medium": "medium.svg",
+    "Low": "low.svg",
+    "Urgent": "urgent.svg",
+    "No Priority": "no-priority.svg"
+}

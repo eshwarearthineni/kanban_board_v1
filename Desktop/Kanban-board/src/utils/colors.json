@@ -1,0 +1,106 @@
+{
+  "A": {
+    "background": "#FF1744",
+    "text": "#FFFFFF"
+  },
+  "B": {
+    "background": "#E91E63",
+    "text": "#FFFFFF"
+  },
+  "C": {
+    "background": "#9C27B0",
+    "text": "#FFFFFF"
+  },
+  "D": {
+    "background": "#673AB7",
+    "text": "#FFFFFF"
+  },
+  "E": {
+    "background": "#3F51B5",
+    "text": "#FFFFFF"
+  },
+  "F": {
+    "background": "#2196F3",
+    "text": "#FFFFFF"
+  },
+  "G": {
+    "background": "#03A9F4",
+    "text": "#FFFFFF"
+  },
+  "H": {
+    "background": "#00BCD4",
+    "text": "#000000"
+  },
+  "I": {
+    "background": "#009688",
+    "text": "#FFFFFF"
+  },
+  "J": {
+    "background": "#4CAF50",
+    "text": "#FFFFFF"
+  },
+  "K": {
+    "background": "#8BC34A",
+    "text": "#000000"
+  },
+  "L": {
+    "background": "#CDDC39",
+    "text": "#000000"
+  },
+  "M": {
+    "background": "#FFEB3B",
+    "text": "#000000"
+  },
+  "N": {
+    "background": "#FFC107",
+    "text": "#000000"
+  },
+  "O": {
+    "background": "#FF9800",
+    "text": "#000000"
+  },
+  "P": {
+    "background": "#FF5722",
+    "text": "#FFFFFF"
+  },
+  "Q": {
+    "background": "#795548",
+    "text": "#FFFFFF"
+  },
+  "R": {
+    "background": "#9E9E9E",
+    "text": "#000000"
+  },
+  "S": {
+    "background": "#607D8B",
+    "text": "#FFFFFF"
+  },
+  "T": {
+    "background": "#607D8B",
+    "text": "#FFFFFF"
+  },
+  "U": {
+    "background": "#607D8B",
+    "text": "#FFFFFF"
+  },
+  "V": {
+    "background": "#607D8B",
+    "text": "#FFFFFF"
+  },
+  "W": {
+    "background": "#607D8B",
+    "text": "#FFFFFF"
+  },
+  "X": {
+    "background": "#607D8B",
+    "text": "#FFFFFF"
+  },
+  "Y": {
+    "background": "#607D8B",
+    "text": "#FFFFFF"
+  },
+  "Z": {
+    "background": "#607D8B",
+    "text": "#FFFFFF"
+  }
+}
